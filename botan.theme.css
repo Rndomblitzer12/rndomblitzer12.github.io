@@ -9,7 +9,8 @@
  * @BDEditor Clear Vision
 */
 
-@import url('https://clearvision.github.io/ClearVision-v6/main.css');
+@import url("https://clearvision.github.io/ClearVision-v7/main.css");
+@import url("https://clearvision.github.io/ClearVision-v7/betterdiscord.css");
 
 :root {
   --main-color: #673AB7;
